@@ -12,4 +12,12 @@ CSharp and Scala implementation of Particles Animation
 2. Change current directory to scala
 3. From command line:
   - sbt test
+# Just for fun, created Elixir implementation. See [Elixir](https://elixir-lang.org/)
+1. Install Elixir SDK
+2. Change current directory to elixir
+3. From command line:
+   - mix compile
+   - mix test
+
+
   
